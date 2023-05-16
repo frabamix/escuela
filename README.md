@@ -1,0 +1,2 @@
+# escuela
+datos de escuela
